@@ -1,0 +1,33 @@
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\ApptestaDll.exe.config
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\ApptestaDll.exe
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\ApptestaDll.pdb
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\ConexaoDllMaster.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\Npgsql.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\Mono.Security.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\ConexaoDllMaster.pdb
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\Npgsql.pdb
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\Npgsql.xml
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.csprojResolveAssemblyReference.cache
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.frmTestar.resources
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.Properties.Resources.resources
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.csproj.GenerateResource.Cache
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.exe
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\bin\Debug\ApptestaDll.exe.config
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.exe
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\bin\Debug\ApptestaDll.exe
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\bin\Debug\ApptestaDll.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\bin\Debug\ConexaoDllMaster.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\bin\Debug\Npgsql.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\bin\Debug\ConexaoDllMaster.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.csprojResolveAssemblyReference.cache
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.frmTestar.resources
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.Properties.Resources.resources
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ApptestaDll\obj\Debug\ApptestaDll.csproj.GenerateResource.Cache

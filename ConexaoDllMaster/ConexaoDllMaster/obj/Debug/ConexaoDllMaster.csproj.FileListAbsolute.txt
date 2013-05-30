@@ -1,0 +1,29 @@
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ConexaoDllMaster.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ConexaoDllMaster.pdb
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Npgsql.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Mono.Security.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Npgsql.pdb
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Npgsql.xml
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\obj\Debug\ConexaoDllMaster.dll
+C:\Users\Evaldo\SkyDrive\Ulbra\2013-1\LPOO II\13-03\master\ConexaoDllMaster\ConexaoDllMaster\obj\Debug\ConexaoDllMaster.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ConexaoDllMaster.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ConexaoDllMaster.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\obj\Debug\ConexaoDllMaster.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\obj\Debug\ConexaoDllMaster.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Npgsql.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Mono.Security.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Npgsql.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Npgsql.xml
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\ConexaoDllMaster\ConexaoDllMaster\obj\Debug\ConexaoDllMaster.csprojResolveAssemblyReference.cache
